@@ -124,3 +124,11 @@ img{
     text-align:center;
     box-shadow: 2px 2px 3px #999;  
 }
+
+.card .banner h1 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card-body .title, .card-body p, .card-text, .card div {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
